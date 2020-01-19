@@ -6,7 +6,7 @@ A digital clock made in using Flutter and Flare animations. This project is a su
 
 I wanted to use this oppurtunity to test out my creative side and share with everyone a message through my app. In empathy clock you would find a homeless character animated in the bottom right corner of the screen, the character wakes up in the morning and goes away for his chores/work and would return back to you at sunset. 
 
-Character wouldn't be able to sleep if its raining or there is a fierce thunderstorm going on.
+Character wouldn't be able to sleep if its raining or there is a fierce thunderstorm going on. The idea is to add a sense of empathy in people towards our fellow homeless citizens and be forever thankful for all that we have.
 
 ## Features
 
